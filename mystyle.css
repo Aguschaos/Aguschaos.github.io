@@ -99,4 +99,11 @@
         .dropdown:hover .dropdown-content {
             display: block;
         }
+        ol{
+            background-color: white;
+            border: 8px groove rgb(28, 118, 192);
+            width: fit-content;
+            margin: 4px;
+            visibility: visible;
+        }
 
